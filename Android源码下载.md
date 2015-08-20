@@ -50,6 +50,7 @@
 		repo init -u git://codeaurora.org/platform/manifest.git -b gingerbread
 		// 或
 		repo init -u git://android.git.kernel.org/platform/manifest.git -b  gingerbread
+			(gingerbread是2.3版本的英文，，其他版本都提示找不到，蛋疼)
 
 	######当屏幕出现以下信息表示成功初始化
 
